@@ -1,0 +1,3 @@
+The Witcher,Andrzej Sapkowski,12345,15
+Neuromancer,William Gibson,54321,10
+The Lusty Argonian Maid,Crassius Curio,67890,999.99

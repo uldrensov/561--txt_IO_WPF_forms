@@ -1,0 +1,20 @@
+C:\Users\Cliff\source\repos\COMPE561 Lab01\COMPE561 Lab01\bin\Debug\COMPE561 Lab01.exe.config
+C:\Users\Cliff\source\repos\COMPE561 Lab01\COMPE561 Lab01\bin\Debug\COMPE561 Lab01.exe
+C:\Users\Cliff\source\repos\COMPE561 Lab01\COMPE561 Lab01\bin\Debug\COMPE561 Lab01.pdb
+C:\Users\Cliff\source\repos\COMPE561 Lab01\COMPE561 Lab01\obj\Debug\COMPE561 Lab01.csprojAssemblyReference.cache
+C:\Users\Cliff\source\repos\COMPE561 Lab01\COMPE561 Lab01\obj\Debug\COMPE561_Lab01.Form1.resources
+C:\Users\Cliff\source\repos\COMPE561 Lab01\COMPE561 Lab01\obj\Debug\COMPE561_Lab01.Properties.Resources.resources
+C:\Users\Cliff\source\repos\COMPE561 Lab01\COMPE561 Lab01\obj\Debug\COMPE561 Lab01.csproj.GenerateResource.cache
+C:\Users\Cliff\source\repos\COMPE561 Lab01\COMPE561 Lab01\obj\Debug\COMPE561 Lab01.csproj.CoreCompileInputs.cache
+C:\Users\Cliff\source\repos\COMPE561 Lab01\COMPE561 Lab01\obj\Debug\COMPE561 Lab01.exe
+C:\Users\Cliff\source\repos\COMPE561 Lab01\COMPE561 Lab01\obj\Debug\COMPE561 Lab01.pdb
+C:\Users\Cliff\source\repos\COMPE561 Lab02\COMPE561 Lab01\bin\Debug\COMPE561 Lab01.exe.config
+C:\Users\Cliff\source\repos\COMPE561 Lab02\COMPE561 Lab01\bin\Debug\COMPE561 Lab01.exe
+C:\Users\Cliff\source\repos\COMPE561 Lab02\COMPE561 Lab01\bin\Debug\COMPE561 Lab01.pdb
+C:\Users\Cliff\source\repos\COMPE561 Lab02\COMPE561 Lab01\obj\Debug\COMPE561 Lab01.csprojAssemblyReference.cache
+C:\Users\Cliff\source\repos\COMPE561 Lab02\COMPE561 Lab01\obj\Debug\COMPE561_Lab01.Form1.resources
+C:\Users\Cliff\source\repos\COMPE561 Lab02\COMPE561 Lab01\obj\Debug\COMPE561_Lab01.Properties.Resources.resources
+C:\Users\Cliff\source\repos\COMPE561 Lab02\COMPE561 Lab01\obj\Debug\COMPE561 Lab01.csproj.GenerateResource.cache
+C:\Users\Cliff\source\repos\COMPE561 Lab02\COMPE561 Lab01\obj\Debug\COMPE561 Lab01.csproj.CoreCompileInputs.cache
+C:\Users\Cliff\source\repos\COMPE561 Lab02\COMPE561 Lab01\obj\Debug\COMPE561 Lab01.exe
+C:\Users\Cliff\source\repos\COMPE561 Lab02\COMPE561 Lab01\obj\Debug\COMPE561 Lab01.pdb

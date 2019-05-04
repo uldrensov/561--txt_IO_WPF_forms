@@ -1,0 +1,5 @@
+
+Subtotal: $15000
+Tax: $1500
+Total: $16500
+*******END OF ORDER SUMMARY*******
